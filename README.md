@@ -12,6 +12,12 @@
 
 <br>
 
-[![palindromeChecker](./images/logo-conancos.png)](https://conancos.dev/next/logica-js/PalindromeCheckingMachine/index.html)
+🟪 **Visit:** [Palindrome Checker ↗](https://conancos.dev/next/logica-js/PalindromeCheckingMachine/index.html) 🟪
 
+
+<img alt="logo machine" src="./images/palindromeA512x768.jpg">
+
+<p></p>
+
+<img alt="logo developer" src="./images/logo-conancos.png">
 </div>
